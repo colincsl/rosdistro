@@ -1,8 +1,8 @@
 facets:
   arch: [ruby-facets]
   fedora: [rubygem-facets]
-  osx:
-    macports: [rb-facets]
+  #osx:
+  #  macports: [rb-facets]
   ubuntu:
     lucid:
       apt: [libfacets-ruby]
