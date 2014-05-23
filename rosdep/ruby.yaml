@@ -56,8 +56,8 @@ hoe:
 nokogiri:
   arch: [ruby-nokogiri]
   fedora: [rubygem-nokogiri]
-  osx:
-    macports: [rb-nokogiri]
+  #osx:
+    #macports: [rb-nokogiri]
   ubuntu:
     lucid:
       apt: [libnokogiri-ruby]
