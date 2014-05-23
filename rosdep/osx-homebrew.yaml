@@ -54,6 +54,10 @@ collada-dom:
   osx:
     homebrew:
       packages: [collada-dom]
+couchdb:
+  osx:
+    homebrew:
+      packages: [couchdb]
 cppunit:
   osx:
     homebrew:
@@ -514,6 +518,10 @@ scons:
   osx:
     homebrew:
       packages: [scons]
+sdl:
+  osx:
+    homebrew:
+      packages: [sdl]
 sdl-image:
   osx:
     homebrew:
